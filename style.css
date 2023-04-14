@@ -289,13 +289,5 @@ body{
 .container4{
     height: 42vh;
     width: 100vw;
-    /* background-color: #07043b; */
-    z-index: 20;
-}
-.container4>.sec1,.container4>.sec2>,.container4>.sec3,.container4>.sec4{
-    height: 100%;
-    width: 25vw;
-}
-.container4>.sec1{
-    background-color: yellow;
+    background-color: #07043b; 
 }
